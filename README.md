@@ -2,26 +2,33 @@
 
 
 
-# WORK IN PROGRESS, Don't use this until this notice goes away <3
+This is an alternative, more organized way to contribute to the BIAV Localization project. This is a public repo, so you should be able to push commits to it instead of having to fork and make pull requests.
+
+I'll do my best to cut up and sort out the BIAV Source Sheets into manageable chunks, and that may take a while, but I'll update the repo with my progress regularly. If there are any issues like missing or misplaced lines, ping me in the Discord! @omnichromia
+
+You're of course still welcome to use the BIAV fork-and-pull system; I'll do my best to keep my files up-to-date with compiled pulls from the main repo.
+
+I'll compile all of the contributions made here whenever significant progress has been made and make sure everyone gets credited properly!
 
 
 
-My hope here is to have a single active hub for all work being done in the Morimens Localization Project.
-I'm gonna start by chunking apart the Source Sheets into organized sections as different files, so that work can be neatly coordinated, and so that it's simpler to upload work to the main BIAV Repo without errors along the way.
+
+
+### HOW TO CONTRIBUTE:
+
+1. Navigate to the file you want to work on and download the **MAIN** file.
+2. Open the LEDGER in that folder, and write your DISCORD USERNAME on the same line as the header for the language you're contributing in;
+3. If that header is already taken, please work on a different file.
+4. Do your thing! When you're ready, save the file as .xlsx (or UTF-8 .csv).
+
+&nbsp;	Don't worry about what's in the file. As long as it contains the unmodified KEY column, you can include or exclude anything else.
+
+&nbsp;	Deleting rows is fine as well. All I need is KEY and your contributions.
+
+5. **RENAME your file**, so that it's not exactly the same as the file you started with. Specifics don't matter.
+6. Upload your file to the same exact folder you downloaded the original from, and I'll handle the rest!
 
 
 
-
-
-#### My initial thoughts for this:
-
-I'd like to have a public repo any of us can push to. I'd have the source sheets cut up into manageable chunks and separated into their own folders, and each folder would have a text file that lists who's working on that chunk in which language;
-
-
-
-when someone picks up a task, they download it and sign their name on that file. that way we wouldn't have multiple people working on the same files in the same language at the same time, contribution credits will be more clear, and it'll be easier to know what does and doesn't need work done.
-
-
-
-when they're done, they would upload JUST the "Key" column and the column for their language, and I would confirm and commit that into the base file, for the next person to download and work on; and when Ace is ready to upload our work to BIAV, I can wrap everything that's been changed into a single organized file and save Ace all that work.
+### PLEASE DO NOT EDIT ANY FILES OTHER THAN LEDGERS. Thank you!
 
