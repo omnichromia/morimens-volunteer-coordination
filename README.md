@@ -18,7 +18,7 @@ I'll compile all of the contributions made here whenever significant progress ha
 4. Do your thing! When you're ready, save the file as .xlsx (or UTF-8 .csv).
 > Don't worry about what the file looks like. As long as it contains the unmodified KEY column, you can include or exclude anything else.
 > Deleting rows is fine as well. **All I need is KEY and your contributions.**
-6. **RENAME your file**, so that it's not exactly the same as the file you started with. Specifics don't matter.
+6. **RENAME your file**, at least to remove MAIN from it, so as to avoid confusion. Other specifics don't matter.
 7. Upload your file to the same exact folder you downloaded the original from, and I'll handle the rest!
 
 
