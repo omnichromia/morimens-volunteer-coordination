@@ -1,6 +1,6 @@
 # Morimens Localization Team Hub
 
-
+is not rdy yet :p
 
 This is an alternative, more organized way to contribute to the BIAV Localization project. PUSH access is invite-only for now, so message me here or on Discord (@omnichromia), or post an [Issue](https://github.com/omnichromia/morimens-volunteer-coordination/issues), or contribute via pull request and I'll add you as a contributor! 
 
